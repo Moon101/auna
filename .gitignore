@@ -1,0 +1,7 @@
+# Entorno virtual
+venv/
+# Archivos de configuración
+*.pyc
+__pycache__/
+db.sqlite3
+.env
